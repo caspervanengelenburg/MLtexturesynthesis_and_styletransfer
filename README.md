@@ -1,1 +1,1 @@
-# MLtexturesynthesis_and_styletransfer
+# Neural texture synthesis, style transfer and extensions thereof
